@@ -10,9 +10,9 @@ N/A
 
 Each section contains a short paragraphs about search engine optimization, online reputation management, social media marketing, and benefits. 
 
-To add a screenshot, create an `assets/images` folder in your repository and upload your screenshot to it. Then, using the relative file path, add it to your README using the following syntax:
+https://raymond2811.github.io/horiseon-refactor-homework/
 
-![alt text](assets/images/screenshot.png)
+assets/images/digital-marketing-meeting.jpg
 
 ## Credits
 
